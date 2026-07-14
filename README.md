@@ -68,6 +68,3 @@ These project highlights showcase the comprehensive AWS services integrated into
 
 Feel free to contribute and adapt this project to suit your needs. We welcome your ideas and improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
